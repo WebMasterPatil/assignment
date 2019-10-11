@@ -1,0 +1,2 @@
+# gnp
+portfolio
